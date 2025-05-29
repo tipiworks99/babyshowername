@@ -1,6 +1,6 @@
 # 👶 Baby Name Suggestion App
 
-A fun React-based web app that suggests baby names based on the gender and length you input. Simple, interactive, and adorable—just like the names it gives! 💖
+A fun React-based web app that where form to guess gender of the baby and suggest name. Simple, interactive, and adorable—just like the names it gives! 💖
 
 ---
 
