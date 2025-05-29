@@ -19,6 +19,24 @@ https://babyshowername.netlify.app/
 - Powered by React + TailwindCSS
 
 ---
+## 📝 How the Form Works
+
+The form is designed to help you generate cute, gender-specific baby names easily. Here's how it works:
+#### 🪪 Name (Optional)   
+- This field is mostly for aesthetic or possible expansion.  
+- It’s not currently used for filtering suggestions.
+#### 🔹 Gender (Required)
+- Select **either "Boy" or "Girl"** — this tells the app what you think the gender is.
+- If you skip this, the app will not proceed.
+#### 🔹 Baby Name (At Least One Required)
+- You **must enter at least one name** in either the **Boy name(s)** field or the **Girl name(s)** field.
+- You can enter **multiple names**, separated by commas. Example:  
+- _Boy name(s)_: `Arjun, Rohan, Veer`  
+- _Girl name(s)_: `Sita, Meera, Anaya`
+#### 🚀 Once the form is filled:
+- Click **Submit** to get personalized name suggestions based on your inputs.
+- If required fields are missing, the app will gently guide you with error messages (no screaming pop-ups, we promise 💖).
+
 
 ## 🛠️ Installation & Running Locally
 
